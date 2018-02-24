@@ -12,8 +12,8 @@
  */
 "pool_list" :
 [
-	{"pool_address" : "pool.etn.spacepools.org:7777","wallet_address" : "etnk4vYYQoTHxnBrHXCPon1PwHjDkahXrbNXrxEgPxndDj5J45xGDBHEkxEZTTDLSgDhZPFuh262oUfDPMptKYTM5xKzUaDQG5", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
-	{"pool_address" : "etn-jp1.nanopool.org:13333","wallet_address" : "etnk4vYYQoTHxnBrHXCPon1PwHjDkahXrbNXrxEgPxndDj5J45xGDBHEkxEZTTDLSgDhZPFuh262oUfDPMptKYTM5xKzUaDQG5", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "pool.etn.spacepools.org:7777","wallet_address" : "etnk4vYYQoTHxnBrHXCPon1PwHjDkahXrbNXrxEgPxndDj5J45xGDBHEkxEZTTDLSgDhZPFuh262oUfDPMptKYTM5xKzUaDQG5", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "etn-jp1.nanopool.org:13333","wallet_address" : "etnk4vYYQoTHxnBrHXCPon1PwHjDkahXrbNXrxEgPxndDj5J45xGDBHEkxEZTTDLSgDhZPFuh262oUfDPMptKYTM5xKzUaDQG5", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
 ],
 
 /*
